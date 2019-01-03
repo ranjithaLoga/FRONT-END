@@ -1,0 +1,18 @@
+.stylist {
+    margin: 15px;
+}
+
+.stylist-charges table td {
+    text-align: center;
+}
+
+.stylist-img {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+}
+
+.stylist-bio {
+    padding: 10px;
+}
+

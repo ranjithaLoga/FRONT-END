@@ -1,0 +1,21 @@
+.base {
+    min-height: 100vh;
+    background-color: #f8f5f5;
+}
+
+.shell {
+    margin: 4%;
+    margin-top: 0%;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}

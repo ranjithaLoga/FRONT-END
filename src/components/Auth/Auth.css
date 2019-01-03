@@ -1,0 +1,20 @@
+.login-form .control {
+    margin: 10px;
+}
+
+.sign-up-select-icon {
+    font-size: 120px;
+}
+
+.sign-up-select h5 {
+    margin: 5px;
+}
+
+.sign-up-select .card {
+    cursor: pointer;
+}
+
+.sign-up-select .card:hover {
+    background-color: #efefef;
+}
+

@@ -1,0 +1,205 @@
+body {
+  text-align: center;
+  background: lightgray;
+}
+
+footer {
+  clear: both;
+  background: black;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+
+#slides_control {
+  margin-bottom: 2em;
+  width: auto;
+}
+
+#loginPage {
+  height: 600px;
+  margin: auto;
+}
+.table {
+  margin: 2em auto;
+  float: none;
+  text-align: left;
+}
+.sidenav {
+  height: 100vh;
+  margin-top: 0px;
+  padding-bottom: 5em;
+  background: #222f3c;
+  color: white;
+  text-align: left;
+}
+
+.topControls {
+  height: 10vh;
+  background: #475577;
+  text-align: left;
+  color: white;
+  padding-left: 3em;
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+.topTabs {
+  margin-bottom: 3em;
+}
+.pageControls {
+  margin-bottom: 2em;
+}
+
+table thead tr {
+  background: gray;
+  color: white;
+}
+#contentView {
+  height: 100vh;
+  overflow-y: scroll;
+}
+.sidenav ul li a:visited {
+  color: white;
+}
+
+.sidenav ul li a:hover {
+  color: black;
+}
+
+.sidenav ul li a:link {
+  color: white;
+}
+.sidenav ul li a:active {
+  color: white;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+.sideNavContainer {
+  height: 100%;
+  background: #222f3c;
+}
+.dashboard_well {
+  background: white;
+  color: gray;
+  height: 200px;
+}
+
+.badge {
+  background: orangered;
+  margin-left: 2em;
+}
+
+.nav-tabs {
+  background: white;
+}
+
+.mywrapper {
+  width: 100%;
+  background: black;
+  margin: 0 auto 0 auto;
+}
+.myheading {
+  height: 100px;
+  background: #818170;
+  padding: 20px;
+  text-align: center;
+  color: #e6e929;
+}
+.mynavigation {
+  height: 50px;
+  background: #ff4da6;
+  padding: 20px;
+}
+
+.mycontent {
+  min-height: 400px;
+  background: #6b6b47;
+  width: 80%;
+  float: left;
+}
+.mysidebar {
+  min-height: 400px;
+  background: #3385ff;
+  width: 20%;
+  float: left;
+}
+.mynavigationfooter {
+  clear: both;
+  height: 50px;
+  background: #ff4da6;
+  padding: 20px;
+}
+.myfooter {
+  clear: both;
+  height: 70px;
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+input[type="number"],
+select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+button[type="submit"] {
+  width: 50%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button[type="hold"] {
+  width: 25%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="text1"]{
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.mydesign1 {
+  background-color: rgb(255, 255, 255);
+}
+
+.mydesign2 {
+  background-color: rgba(235, 220, 17, 0.61);
+}
+
+.mydesign3 {
+  float: right;
+  background-color: rgb(255, 255, 255);
+}
